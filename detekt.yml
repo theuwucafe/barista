@@ -395,7 +395,7 @@ naming:
   InvalidPackageDeclaration:
     active: true
     # TODO: Update this with your project's base package
-    rootPackage: 'template'
+    rootPackage: 'net.theuwucafe.bot'
 
   MatchingDeclarationName:
     active: true
@@ -591,7 +591,7 @@ style:
   NewLineAtEndOfFile:
     active: true
   NoTabs:
-    active: true
+    active: false
   OptionalAbstractKeyword:
     active: true
   OptionalUnit:
